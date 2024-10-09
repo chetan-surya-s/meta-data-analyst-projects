@@ -6,4 +6,4 @@ You can access the raw data in Google Sheets using the link below:
 
 ## Data Link for the Cleaned Data:
 You can access the cleaned data in Google Sheets using the link below:
-[Cleaned Data - Google Sheets]([your_cleaned_data_link_here](https://docs.google.com/spreadsheets/d/1rb-NYQ76md28aTDsASvErluMVpe_mBMw1vx0fYfYlkU/edit?usp=sharing))
+[Cleaned Data - Google Sheets](https://docs.google.com/spreadsheets/d/1rb-NYQ76md28aTDsASvErluMVpe_mBMw1vx0fYfYlkU/edit?usp=sharing)
