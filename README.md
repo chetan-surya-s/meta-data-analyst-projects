@@ -4,6 +4,7 @@ These are Projects/Activities completed  during the study of Meta Data Analyst P
   - Data Cleaning,
   - Data Exploration using Google Sheets, Summary statistics, SQL queries, and Visualizations
   - Python and Pandas package for Data Exploration
-  - Statistical Analysis and Data Modeling.
+  - Statistical Analysis and Data Modeling
+  - Creating Dashboards using Tableau.
 
 I have included the completed activity datasets in respective folders.
